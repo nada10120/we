@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does FIFA stand for?",
+    "options": [
+      "Fédération Internationale de Football Association",
+      "Federation of International Football Associations",
+      "Football International Federation Association",
+      "Federal International Football Association"
+    ],
+    "answer": "Fédération Internationale de Football Association"
+  },
+  {
+    "question": "Which sport is known as the 'king of sports'?",
+    "options": ["Basketball", "Football", "Tennis", "Cricket"],
+    "answer": "Football"
+  },
+  {
+    "question": "What is the main objective of a soccer game?",
+    "options": [
+      "To score more goals than the opponent",
+      "To control the most possession",
+      "To have the most shots on target",
+      "To have more corner kicks"
+    ],
+    "answer": "To score more goals than the opponent"
+  },
+  {
+    "question": "In which country did the Olympic Games originate?",
+    "options": ["Greece", "Italy", "Egypt", "China"],
+    "answer": "Greece"
+  }
+]

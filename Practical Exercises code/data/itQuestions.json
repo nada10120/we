@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HighText Transfer Protocol",
+      "HyperText Transmission Protocol",
+      "HighText Transmission Protocol"
+    ],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "question": "Which programming language is known for its use in web development and is also used for server-side scripting?",
+    "options": ["Python", "JavaScript", "Java", "C#"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the primary function of an operating system?",
+    "options": [
+      "Manage hardware resources",
+      "Run applications",
+      "Store data",
+      "Connect to the internet"
+    ],
+    "answer": "Manage hardware resources"
+  },
+  {
+    "question": "In the context of databases, what does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Structured Quick Language",
+      "Simple Query Language",
+      "Standard Query Language"
+    ],
+    "answer": "Structured Query Language"
+  }
+]
